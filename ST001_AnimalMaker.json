@@ -1,5 +1,5 @@
 {
-  "1": [
+  "avatar1": [
     {
       "position": "1",
       "parts": "1-12",
@@ -85,7 +85,7 @@
       "level": "1"
     }
   ],
-  "2": [
+  "avatar2": [
     {
       "position": "2",
       "parts": "1-21",
@@ -283,7 +283,7 @@
       "level": "2"
     }
   ],
-  "3": [
+  "avatar3": [
     {
       "position": "3",
       "parts": "1-23",
@@ -460,7 +460,7 @@
       "level": "3"
     }
   ],
-  "4": [
+  "avatar4": [
     {
       "position": "4",
       "parts": "1-1",
@@ -651,7 +651,7 @@
       "level": "4"
     }
   ],
-  "6": [
+  "avatar6": [
     {
       "position": "6",
       "parts": "1-37",
